@@ -12,10 +12,11 @@ class Login():
     def run(self):
         counter = 0
         while self.check() is False:
-            print("\nINCORRECT USERNAME OR PASSWORD!\nPLEASE RETRY")
+            print("\nINCORRECT USERNAME OR PASSWORD!\nPLEASE RETRY", "--TRIALS:", counter)
             counter += 1
             if counter > 5:
-                print("OUT OF TRIALS! CLOSING FOR YOUR SAFETY") 
+                print("OUT OF TRIALS! CLOSING FOR YOUR SAFETY")
+                return 
             self.user = str(input("\nPlease type your username:\n_"))
             self.password = str(input("And now type your password:\n_")) 
         print("\n------------------------------\nWelcome back!\n------------------------------\n")
@@ -32,8 +33,10 @@ class Login():
             return True
         else:
             return False
-        
-    def counter(self):
+
+
+
+login = Login()
         counter = 0
 
 
