@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "636e2827776b7a96461a9a21"
+  },
+  "username": "Lorraine",
+  "password": "1234"
+},{
+  "_id": {
+    "$oid": "636e3b16776b7a96461a9a2a"
+  },
+  "username": "Luis",
+  "password": "4321"
+},{
+  "_id": {
+    "$oid": "636e3bab776b7a96461a9a34"
+  },
+  "text": "Databases: consist of the purpose (word in singular) and end with “db” – all lower case: imagedb, resumedb, memberdb, etc.\nCollections: plural in lower case: images, resumes,\nDocument fields: lowerCamelCase, e.g. memberFirstName, fileName, etc\n"
+}]

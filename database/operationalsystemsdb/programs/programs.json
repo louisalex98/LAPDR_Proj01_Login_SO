@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "63760fb546cc836271e55b96"
+  },
+  "pid": {
+    "$oid": "63760fb546cc836271e55b96"
+  },
+  "uid": "63760fb546c",
+  "program": "microsoftOffice365.exe"
+},{
+  "_id": {
+    "$oid": "637610f646cc836271e55b98"
+  },
+  "pid": {
+    "$oid": "637610f646cc836271e55b98"
+  },
+  "uid": "637610f646c",
+  "program": "GTASanAndreas.exe"
+},{
+  "_id": {
+    "$oid": "6376118746cc836271e55b99"
+  },
+  "pid": {
+    "$oid": "6376118746cc836271e55b99"
+  },
+  "uid": "6376118746c",
+  "program": "microsoftEdge.exe"
+},{
+  "_id": {
+    "$oid": "6376126846cc836271e55b9a"
+  },
+  "pid": {
+    "$oid": "6376126846cc836271e55b9a"
+  },
+  "uid": "6376126846c",
+  "program": "Code.exe"
+},{
+  "_id": {
+    "$oid": "637612e946cc836271e55b9c"
+  },
+  "pid": {
+    "$oid": "637612e946cc836271e55b9c"
+  },
+  "uid": "637612e946c",
+  "program": "figmaStudio.exe"
+},{
+  "_id": {
+    "$oid": "6376136846cc836271e55b9d"
+  },
+  "pid": {
+    "$oid": "6376136846cc836271e55b9d"
+  },
+  "uid": "6376136846c",
+  "program": "mongod.exe"
+}]
